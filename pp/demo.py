@@ -121,4 +121,6 @@
  #   print("Thank you for using ATM")
 
 print("demo")
+a=5+7
+print(a)
 
