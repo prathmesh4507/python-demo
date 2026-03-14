@@ -120,7 +120,7 @@
 #elif option=="4" or option=="exit":
  #   print("Thank you for using ATM")
 
-print("demo")
+print("demo") 
 a=5+7
-print(a)
+print(a)#addition= 12
 
